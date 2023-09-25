@@ -12,11 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Dynamic Website**
 
-- 👨‍💻 All of my projects are available at [mohdshuhaib.github.io/personalshuhaib](mohdshuhaib.github.io/personalshuhaib)
-
 - 📫 How to reach me **mohdshuhaib357@gmail.com**
-
-- 📄 Know about my experiences [mohdshuhaib.github.io/personalshuhaib](mohdshuhaib.github.io/personalshuhaib)
 
 - ⚡ Fun fact **Effort Has No Substitution** <br><br>
 
@@ -36,5 +32,3 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdshuhaib&" alt="mohdshuhaib" /></p><br><br><br><br><br><br><br><br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/mohdshuhaib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/mohdshuhaib" /></a></p><br><br>
